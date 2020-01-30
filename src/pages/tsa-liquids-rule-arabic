@@ -17,28 +17,29 @@ export default () => {
           <h1 className="font-bold text-xl md:text-2xl mt-3 text-center">TSA Liquids Rule</h1>
           <div className="w-full">
             <Paragraph
-              title=""
-              text="You are allowed to bring a quart-sized bag of liquids, aerosols, gels, creams and pastes in your carry-on bag and through the checkpoint. These are limited to travel-sized containers that are 3.4 ounces (100 milliliters) or less per item. Placing these items in the small bag and separating from your carry-on baggage facilitates the screening process. Pack items that are in containers larger than 3.4 ounces or 100 milliliters in checked baggage.
-
-Any liquid, aerosol, gel, cream or paste that alarms during screening will require additional screening."
+              title="قواعد التعامل مع السوائل"
+              text="يُسمحُ لك بإحضار حقيبة صغيرة بحجم 1.14 لتر لوضع السوائل والبخاخات والمواد الهلامية والكريمات والمعاجين في حقيبتك المحمولة في المطار وذلك للمرور عبر نقاط التفتيش. تقتصر هذه الأغراض على حاويات السفر التي تبلغ سعتها 3.4 أونصة/أوقية (100 مليلتر) أو أقل لكل صنف من هذه الأغراض. يساعد وضع هذه الأغراض في حقيبة صغيرة خارج حقيبة السفر في تسهيل عملية فحص/تفتيش حقائب الأمتعة. قم بوضع الأغراض التي يبلغ حجمها أكبر من 3.4 أوقية أو أكبر من 100 ملليلتر في الحقائب المفحوصة التي تم تسجيلها. 
+سيؤدي انطلاق إشارة الإنذار عند فحص السوائل أو البخاخات أو المواد الهلامية أو المعاجين أثناء عملية التفتيش إلى استغراق مزيد من الوقت في عمليات الفحص والتفتيش.  
+"
             />
             <Paragraph
-              title="Exemptions
+              title="الإعفاءات"
 "
               text="<img src='/liquids.svg' />"
             />
             <Paragraph
-              title="Inbound International Flights
+              title="الرحلات الدولية الوافدة"
 
 "
-              text="You may carry duty free liquids in secure, tamper–evident bags, more than 3.4 oz or 100 ml in your carry-on bag if:
+              text="يمكنك اصطحاب السوائل المُعفاة من الرسوم الجمركية والتي يزيد حجمها عن 3.4 أوقية أو 100 ملليلتر في أكياس آمنة تُظهر عدم تعرضها للعبث داخل حقيبتك المحمولة وذلك في الحالات التالية:
 
-<li>The duty free liquids were purchased internationally and you are traveling to the United States with a connecting flight.</li>
-<li>The liquids are packed in a transparent, secure, tamper-evident bag by the retailer and do not show signs of tampering when presented to TSA for screening.</li>
-<li>The original receipt for the liquids is present and the purchase was made within 48 hours.</li>
-<li>The items inside the secure, tamper-evident bags must be screened and cleared. Any item that alarms or is unable to be screened will not be permitted in your carry-on bag. We recommend packing all liquids, gels, and aerosols that are over 3.4 oz or 100 ml in your checked baggage, even if they are in a secure, tamper-evident bag.</li>"
+<li>إذا كانت السوائل المُعفاة من الرسوم الجمركية قد اشُتريت من الأسواق الدولية وكنت تسافر إلى الولايات المتحدة في رحلة متواصلة. .</li>
+<li> إذا كانت السوائل معبأة في حقيبة آمنة وشفافة وتُظهر عدم تعرض السوائل للعبث من قبل بائع التجزئة وأن لا تظهر عليها أي علامات عبث عند عرضها للفحص أمام إدارة أمن وسائل النقل.</li>
+<li> إذا كانت هناك فاتورة أصلية لشراء هذه السوائل وكانت عملية الشراء قد تمت في خلال 48 ساعة الماضية.</li>
+<li> يجب أن يتم فحص وإجازة دخول الأغراض التي في داخل الأكياس المؤمنة التي تُظهر عدم تعرضها للعبث. لن يُسمح بإدخال أي من الأغراض التي تؤدي لإطلاق إشارة الإنذار أو التي لا يمكن فحصها ضمن حقيبة السفر.
+<li> نوصي بوضع جميع السوائل والمواد الهلامية والبخاخات التي تبلغ سعتها أكثر من 3.4 أوقية أو 100 ملليلتر في حقيبتك المسجلة التي تم فحصها حتى وإن كانت في أكياس مؤمنة تُظهر عدم تعرضها للعبث. 
             />
-            <Paragraph title="" text="" />
+            <Paragraph title="" text="يجب أن تُوضع السوائل التي يبلغ وزنها أكثر من 3.4 أوقية أو تبلغ سعتها أكثر من 100 ملليتر، والمعبأة في حقيبة مؤمنة وتُظهر عدم تعرضها للعبث، في الحقيبة المسجلة التي تم فحصها.   " />
           </div>
         </div>
       </section>
